@@ -1,0 +1,3 @@
+2
+név1,rock,Budapest;07.02,Budapest;07.06
+név2,alternatív,Zamárdi;06.10,Budapest;06.18,Sukoró;07.10
