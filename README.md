@@ -1,4 +1,4 @@
-# python-singer-class
+# singer-class
 A simple example showing how classes and unit tests work in Python.
 
 ## Project Structure
